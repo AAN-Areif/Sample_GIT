@@ -1,0 +1,10 @@
+# Branch
+1. git branch NewItems
+2. git checkout NewItems
+3. git status
+4. touch Data.txt
+5. git status
+6. git add .
+7. git commit -m "adding new branch"
+8. git status
+9. git push -u origin NewItems
